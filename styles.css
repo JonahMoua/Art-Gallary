@@ -5,6 +5,15 @@
   width: 1439px;
   box-sizing: border-box;
 }
+
+/* Styles for screens smaller than 1440px */
+@media (max-width: 1439px) {
+  .desktop-home {
+    width: 100%; /* Use full width */
+    padding: 0 20px; /* Add some padding */
+  }
+}
+
 .group-7 {
   position: relative;
   margin-bottom: 180px;
