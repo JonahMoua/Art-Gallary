@@ -1,0 +1,269 @@
+.desktop-home {
+  background: var(--white, #FFFFFF);
+  display: flex;
+  flex-direction: column;
+  width: 1439px;
+  box-sizing: border-box;
+}
+.group-7 {
+  position: relative;
+  margin-bottom: 180px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  padding: 190px 50.3px 314px 0;
+  width: 1235.3px;
+  box-sizing: border-box;
+}
+.rectangle {
+  background: url('https://fn12.com/api/clusters/cluster-fn12-prod-us-west1/projects/LrEWKJikUghtJeVZd8CWGh/assets/images/e7fadff529227217669dcfa2efebe2f5cc828075?Expires=1711511347&KeyName=fn12-cdn&Signature=JiWe4DRMqae-f-lWl2WqzVMGY9w=') 50% / cover no-repeat;
+  position: absolute;
+  right: 245.3px;
+  bottom: 0px;
+  width: 540px;
+  height: 800px;
+}
+.modern-art-gallery {
+  position: relative;
+  margin: 190px 88px 120px 0;
+  display: inline-block;
+  width: 876px;
+  overflow-wrap: break-word;
+  font-family: var(--heading-xl-font-family, 'Big Shoulders Display');
+  font-weight: var(--heading-xl-font-weight, 900);
+  font-size: var(--heading-xl-font-size, 96px);
+  line-height: var(--heading-xl-line-height, 0.917);
+  text-transform: var(--heading-xl-text-transform, uppercase);
+  color: var(--almost-black, #151515);
+}
+.the-arts-in-the-coll {
+  position: absolute;
+  top: 190px;
+  right: 0px;
+  overflow-wrap: break-word;
+  font-family: var(--body-m-font-family, 'Outfit');
+  font-weight: var(--body-m-font-weight, 400);
+  font-size: var(--body-m-font-size, 22px);
+  line-height: var(--body-m-line-height, 1.455);
+  color: var(--dark-grey, #444444);
+}
+.group-3 {
+  background: #D5966C;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 24px 0;
+  width: 56px;
+  height: 72px;
+  box-sizing: border-box;
+}
+.group-2 {
+  background: #151515;
+  position: absolute;
+  right: 106.3px;
+  bottom: 314px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 24px 3.5px 24px 0;
+  width: 204px;
+  box-sizing: border-box;
+}
+.our-location {
+  overflow-wrap: break-word;
+  font-family: 'Big Shoulders Display';
+  font-weight: 800;
+  font-size: 20px;
+  letter-spacing: 3.6px;
+  color: var(--white, #FFFFFF);
+}
+.path-2 {
+  width: 8px;
+  height: 24px;
+}
+.jakarta-art-gallery {
+  background: #151515;
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 450px;
+  height: 799px;
+  box-sizing: border-box;
+}
+.modern-art-gallery-3 {
+  position: absolute;
+  top: 189px;
+  right: -162.7px;
+  overflow-wrap: break-word;
+  font-family: var(--heading-xl-font-family, 'Big Shoulders Display');
+  font-weight: var(--heading-xl-font-weight, 900);
+  font-size: var(--heading-xl-font-size, 96px);
+  line-height: var(--heading-xl-line-height, 0.917);
+  text-transform: var(--heading-xl-text-transform, uppercase);
+  color: var(--white, #FFFFFF);
+}
+.group-6 {
+  margin: 0 0 180px 1px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.group-4 {
+  margin: 60px 148.8px 60px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.your-day-at-the-gall {
+  margin-bottom: 32px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--heading-m-font-family, 'Big Shoulders Display');
+  font-weight: var(--heading-m-font-weight, 900);
+  font-size: var(--heading-m-font-size, 60px);
+  line-height: var(--heading-m-line-height, 1);
+  text-transform: var(--heading-m-text-transform, uppercase);
+  color: var(--almost-black, #151515);
+}
+.wander-through-our-d {
+  overflow-wrap: break-word;
+  font-family: var(--body-m-font-family, 'Outfit');
+  font-weight: var(--body-m-font-weight, 400);
+  font-size: var(--body-m-font-size, 22px);
+  line-height: var(--body-m-line-height, 1.455);
+  color: var(--dark-grey, #444444);
+}
+.rectangle-4 {
+  background: url('https://fn12.com/api/clusters/cluster-fn12-prod-us-west1/projects/LrEWKJikUghtJeVZd8CWGh/assets/images/e0d235b0e45cbd4f8e9a7d39fa87502976f49b46?Expires=1711511347&KeyName=fn12-cdn&Signature=gRFzpspR_OIyi1DrdzZzpMEg1-A=') 50% / cover no-repeat;
+  width: 635px;
+  height: 400px;
+}
+.rectangle-copy-2 {
+  background: url('https://fn12.com/api/clusters/cluster-fn12-prod-us-west1/projects/LrEWKJikUghtJeVZd8CWGh/assets/images/047128b07387f3f8128d8110e123de2b8bedf929?Expires=1711511347&KeyName=fn12-cdn&Signature=z4wMGb0a9BQ33I76Av3RBqT9Hrs=') 50% / cover no-repeat;
+  margin-right: 30px;
+  width: 635px;
+  height: 720px;
+}
+.rectangle-copy-4 {
+  background: url('https://fn12.com/api/clusters/cluster-fn12-prod-us-west1/projects/LrEWKJikUghtJeVZd8CWGh/assets/images/08c5d6fd985013d29f5994c424ca2dcf67f0b6ae?Expires=1711511347&KeyName=fn12-cdn&Signature=6yYFRMuyHUqZZ8b3eugmQUyjK1I=') 50% / cover no-repeat;
+  margin-bottom: 30px;
+  width: 445px;
+  height: 313px;
+}
+.group-5 {
+  background: #151515;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 65px 0 64px 0;
+  width: 445px;
+  box-sizing: border-box;
+}
+.come-be-inspired {
+  margin: 0 103.2px 32px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--heading-m-font-family, 'Big Shoulders Display');
+  font-weight: var(--heading-m-font-weight, 900);
+  font-size: var(--heading-m-font-size, 60px);
+  line-height: var(--heading-m-line-height, 1);
+  text-transform: var(--heading-m-text-transform, uppercase);
+  color: var(--white, #FFFFFF);
+}
+.were-excited-to-wel {
+  overflow-wrap: break-word;
+  font-family: var(--body-m-font-family, 'Outfit');
+  font-weight: var(--body-m-font-weight, 400);
+  font-size: var(--body-m-font-size, 22px);
+  line-height: var(--body-m-line-height, 1.455);
+  color: var(--white, #FFFFFF);
+}
+.group-8 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 721.7px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.the-modern-art-galle {
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.556;
+  color: var(--white, #FFFFFF);
+}
+.modernartgallery {
+  margin-bottom: 26px;
+  width: 159.6px;
+  height: 58px;
+}
+.group-9 {
+  margin-bottom: 64px;
+  display: flex;
+  flex-direction: row;
+  width: 100px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.path {
+  margin-right: 20px;
+  width: 20px;
+  height: 20px;
+}
+.shape {
+  margin-right: 20px;
+  width: 20px;
+  height: 20px;
+}
+.path-6 {
+  margin: 2.2px 0 1.5px 0;
+  width: 20px;
+  height: 16.3px;
+}
+.container {
+  display: flex;
+  flex-direction: row;
+  width: 1110px;
+  box-sizing: border-box;
+}
+.container-7 {
+  background: #151515;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 80px 0;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.container-8 {
+  margin-bottom: 30px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.container-9 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 445px;
+  box-sizing: border-box;
+}
+.container-10 {
+  position: relative;
+  width: 450px;
+  height: 799px;
+}
