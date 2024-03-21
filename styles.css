@@ -1,3 +1,11 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* height: 100vh; */
+  margin: 0;
+}
+
 .desktop-home {
   background: var(--white, #FFFFFF);
   display: flex;
@@ -26,7 +34,7 @@
   box-sizing: border-box;
 }
 .rectangle {
-  background: url('https://fn12.com/api/clusters/cluster-fn12-prod-us-west1/projects/LrEWKJikUghtJeVZd8CWGh/assets/images/e7fadff529227217669dcfa2efebe2f5cc828075?Expires=1711511347&KeyName=fn12-cdn&Signature=JiWe4DRMqae-f-lWl2WqzVMGY9w=') 50% / cover no-repeat;
+  background: url('assets/desktop/image-hero.jpg') 50% / cover no-repeat;
   position: absolute;
   right: 245.3px;
   bottom: 0px;
@@ -39,9 +47,9 @@
   display: inline-block;
   width: 876px;
   overflow-wrap: break-word;
-  font-family: var(--heading-xl-font-family, 'Big Shoulders Display');
   font-weight: var(--heading-xl-font-weight, 900);
   font-size: var(--heading-xl-font-size, 96px);
+  line-height: var(--heading-xl-line-height, 0.917);
   line-height: var(--heading-xl-line-height, 0.917);
   text-transform: var(--heading-xl-text-transform, uppercase);
   color: var(--almost-black, #151515);
@@ -86,7 +94,7 @@
   font-weight: 800;
   font-size: 20px;
   letter-spacing: 3.6px;
-  color: var(--white, #FFFFFF);
+  /* color: var(--white, #FFFFFF); */
 }
 .path-2 {
   width: 8px;
@@ -107,7 +115,7 @@
 .modern-art-gallery-3 {
   position: absolute;
   top: 189px;
-  right: -162.7px;
+  /* right: -162.7px; */
   overflow-wrap: break-word;
   font-family: var(--heading-xl-font-family, 'Big Shoulders Display');
   font-weight: var(--heading-xl-font-weight, 900);
@@ -126,7 +134,7 @@
   box-sizing: border-box;
 }
 .group-4 {
-  margin: 60px 148.8px 60px 0;
+  /* margin: 60px 148.8px 60px 0; */
   display: flex;
   flex-direction: column;
   box-sizing: border-box;
@@ -152,18 +160,20 @@
   color: var(--dark-grey, #444444);
 }
 .rectangle-4 {
-  background: url('https://fn12.com/api/clusters/cluster-fn12-prod-us-west1/projects/LrEWKJikUghtJeVZd8CWGh/assets/images/e0d235b0e45cbd4f8e9a7d39fa87502976f49b46?Expires=1711511347&KeyName=fn12-cdn&Signature=gRFzpspR_OIyi1DrdzZzpMEg1-A=') 50% / cover no-repeat;
+  background-image: url('assets/desktop/image-grid-1.jpg');
+  background-size: cover; /* Optional: Adjust to fit your layout */
   width: 635px;
   height: 400px;
 }
+
 .rectangle-copy-2 {
-  background: url('https://fn12.com/api/clusters/cluster-fn12-prod-us-west1/projects/LrEWKJikUghtJeVZd8CWGh/assets/images/047128b07387f3f8128d8110e123de2b8bedf929?Expires=1711511347&KeyName=fn12-cdn&Signature=z4wMGb0a9BQ33I76Av3RBqT9Hrs=') 50% / cover no-repeat;
+  background: url('assets/desktop/image-grid-2.jpg') 50% / cover no-repeat;
   margin-right: 30px;
   width: 635px;
   height: 720px;
 }
 .rectangle-copy-4 {
-  background: url('https://fn12.com/api/clusters/cluster-fn12-prod-us-west1/projects/LrEWKJikUghtJeVZd8CWGh/assets/images/08c5d6fd985013d29f5994c424ca2dcf67f0b6ae?Expires=1711511347&KeyName=fn12-cdn&Signature=6yYFRMuyHUqZZ8b3eugmQUyjK1I=') 50% / cover no-repeat;
+  background: url('assets/desktop/image-grid-3.jpg') 50% / cover no-repeat;
   margin-bottom: 30px;
   width: 445px;
   height: 313px;
@@ -175,7 +185,7 @@
   flex-direction: column;
   align-items: center;
   padding: 65px 0 64px 0;
-  width: 445px;
+  width: 100%;
   box-sizing: border-box;
 }
 .come-be-inspired {
@@ -217,6 +227,7 @@
   margin-bottom: 26px;
   width: 159.6px;
   height: 58px;
+  color: white;
 }
 .group-9 {
   margin-bottom: 64px;
@@ -254,7 +265,7 @@
   flex-direction: row;
   justify-content: space-between;
   padding: 80px 0;
-  width: 1440px;
+  width: 100%;
   box-sizing: border-box;
 }
 .container-8 {
